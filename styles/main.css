@@ -1,0 +1,29 @@
+/* Target ÷ Context = Result */
+
+html {
+  /* Set Base Font Size Here */
+  font-size: 24px;
+  /* Set Line-height Here (Good practice to set line-height) */
+  line-height: 1.5;
+}
+
+/* Set a font-size for the h1 with an em unit */
+h1 {
+
+}
+
+/* Set the width of the movies containers in % to create a grid */
+.news {
+
+}
+
+/* Images are tough to deal with for responsive design because images have fixed sizes */
+/* But! What we can do is to set a base-line rule for all images ... */
+img {
+  /* We can tell the image to shrink as needed but never grow past its original size*/
+  /*max-width: 100%;*/
+
+  /* We can also set the image to grow according to its parent's width, but we can potentially
+     run into artifcating issues ... */
+  /*width: 100%;*/
+}
