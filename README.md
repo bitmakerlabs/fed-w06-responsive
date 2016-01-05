@@ -5,10 +5,10 @@
 
 ---------------------
 
-Home
-About
-Archived
-Contact
+Home  
+About  
+Archived  
+Contact  
 
 ---------------------
 
@@ -16,7 +16,7 @@ Contact
 
 ---------------------
 
-Home       About
+Home       About  
 Archived   Contact
 
 ---------------------
